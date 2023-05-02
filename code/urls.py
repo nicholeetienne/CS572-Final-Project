@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+#Author : Nichole Etienne 
 
 
 def get_urls(train_logs):
