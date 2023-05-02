@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-#NAuthor : Nichole Etienne 
+#Author : Nichole Etienne 
 
 from collections import defaultdict
 
