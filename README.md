@@ -18,3 +18,7 @@ While Previous work was given as a guide , the core contriibution of this work a
 - Result indicate a method that surpasses all submissions on the 2014 result leaderboard 
 - Combination of features that were the most optimal. 
 
+### Required Libraries : 
+- Collection 
+- OS 
+- JSON 
