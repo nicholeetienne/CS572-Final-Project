@@ -1,4 +1,6 @@
 #! /usr/bin/env python
+#Author : Nichole Etienne 
+
 from collections import defaultdict
 import fileread
 
