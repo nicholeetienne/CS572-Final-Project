@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# Author : Nichole Etienne 
        
 class Session:
     def __init__(self, session_id):
@@ -13,8 +14,8 @@ class Domain:
 
 class Click:
     def __init__(self, url_id, dwell_time,obj_url_query_session):
-        self.url_id = url_id        ###make private?
-        self.dwell_time = dwell_time        ###make private?
+        self.url_id = url_id        
+        self.dwell_time = dwell_time        
 
 class URL:
     def __init__(self, url_id):
@@ -25,12 +26,12 @@ class URLQuerySession:
         self.url_id = url_id
         self.query_id = query_id
         self.session_id = session_id
-        self._rank = rank        ###make private?
+        self._rank = rank        
     def get_score(self):
 
 class QuerySession:
     def __init__(self, query_id, session_id, position):
         self.query_id = query_id
         self.session_id = session_id
-        self._position = position        ###make private? ###make private?
+        self._position = position        
         ##get position function if it is private
