@@ -1,4 +1,6 @@
 #! /usr/bin/env python
+#NAuthor : Nichole Etienne 
+
 from collections import defaultdict
 
 """
