@@ -1,6 +1,6 @@
 # CS572-Final-Project
 
-This repository contains the code for Personalized Web Search utilizing user history. 
+This repository contains the code for Personalized Web Search utilizing User Behavior. 
 
 The data used comes from the 2014 Kaggle Competition : https://www.kaggle.com/c/yandex-personalized-web-search-challenge
 
